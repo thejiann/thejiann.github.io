@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thejiann.github.io/zh/first/</loc>
+    <loc>https://thejiann.github.io/first/</loc>
     <lastmod>2022-07-31T17:38:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejiann.github.io/zh/tags/</loc>
+    <loc>https://thejiann.github.io/tags/</loc>
     <lastmod>2022-07-31T17:38:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -20,10 +20,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://thejiann.github.io/zh/tags/"
+                href="https://thejiann.github.io/tags/"
                 />
   </url><url>
-    <loc>https://thejiann.github.io/zh/</loc>
+    <loc>https://thejiann.github.io/</loc>
     <lastmod>2022-07-31T17:38:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -38,10 +38,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://thejiann.github.io/zh/"
+                href="https://thejiann.github.io/"
                 />
   </url><url>
-    <loc>https://thejiann.github.io/zh/tags/%E6%88%91%E4%BB%AC/</loc>
+    <loc>https://thejiann.github.io/tags/%E6%88%91%E4%BB%AC/</loc>
     <lastmod>2022-07-31T17:38:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -51,10 +51,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://thejiann.github.io/zh/tags/%E6%88%91%E4%BB%AC/"
+                href="https://thejiann.github.io/tags/%E6%88%91%E4%BB%AC/"
                 />
   </url><url>
-    <loc>https://thejiann.github.io/zh/categories/</loc>
+    <loc>https://thejiann.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,10 +68,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://thejiann.github.io/zh/categories/"
+                href="https://thejiann.github.io/categories/"
                 />
   </url><url>
-    <loc>https://thejiann.github.io/zh/series/</loc>
+    <loc>https://thejiann.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -85,7 +85,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://thejiann.github.io/zh/series/"
+                href="https://thejiann.github.io/series/"
                 />
   </url>
 </urlset>
