@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>TheJiann&#39;s Blog</title>
+    <link>https://thejiann.github.io/zh/</link>
+    <description>Recent content on TheJiann&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>yuguojian@whu.edu.cn (TheJiann)</managingEditor>
+    <webMaster>yuguojian@whu.edu.cn (TheJiann)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 31 Jul 2022 17:38:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://thejiann.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>2020.12.26</title>
+        <link>https://thejiann.github.io/zh/first/</link>
+        <pubDate>Sun, 31 Jul 2022 17:38:00 +0000</pubDate>
+        <author>yuguojian@whu.edu.cn (TheJiann)</author>
+        <atom:modified>Sun, 31 Jul 2022 17:38:00 +0000</atom:modified>
+        <guid>https://thejiann.github.io/zh/first/</guid>
+        <description>在一起啦</description>
+        
+        <dc:creator>TheJiann</dc:creator>
+        <media:content url="https://thejiann.github.iohttps://thejiann.oss-cn-chengdu.aliyuncs.com/hugo/firstMeetingHead.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>我们</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
