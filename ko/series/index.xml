@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on TheJiann&#39;s Blog</title>
-    <link>https://thejiann.github.io/ko/series/</link>
+    <link>https://blog.thejiann.com/ko/series/</link>
     <description>Recent content in Series on TheJiann&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -15,7 +15,7 @@
     <webMaster>yuguojian@whu.edu.cn (TheJiann)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     
-        <atom:link href="https://thejiann.github.io/ko/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.thejiann.com/ko/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       

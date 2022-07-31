@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on TheJiann&#39;s Blog</title>
-    <link>https://thejiann.github.io/en/series/</link>
+    <link>https://blog.thejiann.com/en/series/</link>
     <description>Recent content in Series on TheJiann&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="https://thejiann.github.io/en/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.thejiann.com/en/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Themes Guide</title>
-        <link>https://thejiann.github.io/en/series/themes-guide/</link>
+        <link>https://blog.thejiann.com/en/series/themes-guide/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>yuguojian@whu.edu.cn (TheJiann)</author>
         
-        <guid>https://thejiann.github.io/en/series/themes-guide/</guid>
+        <guid>https://blog.thejiann.com/en/series/themes-guide/</guid>
         <description></description>
         
         <dc:creator>TheJiann</dc:creator>

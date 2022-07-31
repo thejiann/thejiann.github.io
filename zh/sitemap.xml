@@ -2,90 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thejiann.github.io/first/</loc>
-    <lastmod>2022-07-31T17:38:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thejiann.github.io/tags/</loc>
-    <lastmod>2022-07-31T17:38:00+00:00</lastmod>
+    <loc>https://blog.thejiann.com/tags/</loc>
+    <lastmod>2021-06-26T13:13:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thejiann.github.io/en/tags/"
+                href="https://blog.thejiann.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://thejiann.github.io/ko/tags/"
+                href="https://blog.thejiann.com/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://thejiann.github.io/tags/"
+                href="https://blog.thejiann.com/tags/"
                 />
   </url><url>
-    <loc>https://thejiann.github.io/</loc>
-    <lastmod>2022-07-31T17:38:00+00:00</lastmod>
+    <loc>https://blog.thejiann.com/</loc>
+    <lastmod>2021-06-26T13:13:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://thejiann.github.io/ko/"
+                href="https://blog.thejiann.com/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thejiann.github.io/en/"
+                href="https://blog.thejiann.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://thejiann.github.io/"
+                href="https://blog.thejiann.com/"
                 />
   </url><url>
-    <loc>https://thejiann.github.io/tags/%E6%88%91%E4%BB%AC/</loc>
-    <lastmod>2022-07-31T17:38:00+00:00</lastmod>
+    <loc>https://blog.thejiann.com/tags/%E6%88%91%E4%BB%AC/</loc>
+    <lastmod>2021-06-26T13:13:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thejiann.github.io/en/tags/%E6%88%91%E4%BB%AC/"
+                href="https://blog.thejiann.com/en/tags/%E6%88%91%E4%BB%AC/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://thejiann.github.io/tags/%E6%88%91%E4%BB%AC/"
+                href="https://blog.thejiann.com/tags/%E6%88%91%E4%BB%AC/"
                 />
   </url><url>
-    <loc>https://thejiann.github.io/categories/</loc>
+    <loc>https://blog.thejiann.com/2021newtosummerholiday/</loc>
+    <lastmod>2021-06-26T13:13:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.thejiann.com/esportshotel/</loc>
+    <lastmod>2021-05-28T21:03:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.thejiann.com/happyevening/</loc>
+    <lastmod>2021-05-04T21:38:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.thejiann.com/firstmeeting/</loc>
+    <lastmod>2020-12-26T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.thejiann.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thejiann.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://thejiann.github.io/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://thejiann.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://thejiann.github.io/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thejiann.github.io/en/series/"
+                href="https://blog.thejiann.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://thejiann.github.io/ko/series/"
+                href="https://blog.thejiann.com/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://thejiann.github.io/series/"
+                href="https://blog.thejiann.com/categories/"
+                />
+  </url><url>
+    <loc>https://blog.thejiann.com/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.thejiann.com/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://blog.thejiann.com/ko/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://blog.thejiann.com/series/"
                 />
   </url>
 </urlset>

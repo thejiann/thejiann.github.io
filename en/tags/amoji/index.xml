@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>amoji on TheJiann&#39;s Blog</title>
-    <link>https://thejiann.github.io/en/tags/amoji/</link>
+    <link>https://blog.thejiann.com/en/tags/amoji/</link>
     <description>Recent content in amoji on TheJiann&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="https://thejiann.github.io/en/tags/amoji/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.thejiann.com/en/tags/amoji/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Emoji Support</title>
-        <link>https://thejiann.github.io/en/en/posts/emoji-support/</link>
+        <link>https://blog.thejiann.com/en/en/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>yuguojian@whu.edu.cn (TheJiann)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>https://thejiann.github.io/en/en/posts/emoji-support/</guid>
+        <guid>https://blog.thejiann.com/en/en/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         
         <dc:creator>Kim</dc:creator>
