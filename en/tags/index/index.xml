@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on TheJiann&#39;s Blog</title>
-    <link>https://blog.thejiann.com/en/tags/index/</link>
+    <link>https://blog.thejiann.space/en/tags/index/</link>
     <description>Recent content in index on TheJiann&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,17 +15,17 @@
     <webMaster>yuguojian@whu.edu.cn (TheJiann)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     
-        <atom:link href="https://blog.thejiann.com/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.thejiann.space/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Posts</title>
-        <link>https://blog.thejiann.com/en/en/posts/</link>
+        <link>https://blog.thejiann.space/en/en/posts/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>yuguojian@whu.edu.cn (TheJiann)</author>
         
-        <guid>https://blog.thejiann.com/en/en/posts/</guid>
+        <guid>https://blog.thejiann.space/en/en/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

@@ -2,112 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.thejiann.com/ko/ko/archive/</loc>
+    <loc>https://blog.thejiann.space/ko/ko/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url><url>
-    <loc>https://blog.thejiann.com/ko/ko/</loc>
+    <loc>https://blog.thejiann.space/ko/ko/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.thejiann.com/en/ko/"
+                href="https://blog.thejiann.space/en/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://blog.thejiann.com/ko/ko/"
+                href="https://blog.thejiann.space/ko/ko/"
                 />
   </url><url>
-    <loc>https://blog.thejiann.com/ko/</loc>
+    <loc>https://blog.thejiann.space/ko/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.thejiann.com/"
+                href="https://blog.thejiann.space/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.thejiann.com/en/"
+                href="https://blog.thejiann.space/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://blog.thejiann.com/ko/"
+                href="https://blog.thejiann.space/ko/"
                 />
   </url><url>
-    <loc>https://blog.thejiann.com/ko/ko/about/</loc>
+    <loc>https://blog.thejiann.space/ko/ko/about/</loc>
     <lastmod>2019-10-09T11:44:14+09:00</lastmod>
   </url><url>
-    <loc>https://blog.thejiann.com/ko/ko/gallery/photo/</loc>
+    <loc>https://blog.thejiann.space/ko/ko/gallery/photo/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
   </url><url>
-    <loc>https://blog.thejiann.com/ko/ko/gallery/cartoon/</loc>
+    <loc>https://blog.thejiann.space/ko/ko/gallery/cartoon/</loc>
     <lastmod>2018-10-11T10:20:16+09:00</lastmod>
   </url><url>
-    <loc>https://blog.thejiann.com/ko/categories/</loc>
+    <loc>https://blog.thejiann.space/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.thejiann.com/categories/"
+                href="https://blog.thejiann.space/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.thejiann.com/en/categories/"
+                href="https://blog.thejiann.space/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://blog.thejiann.com/ko/categories/"
+                href="https://blog.thejiann.space/ko/categories/"
                 />
   </url><url>
-    <loc>https://blog.thejiann.com/ko/tags/index/</loc>
+    <loc>https://blog.thejiann.space/ko/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.thejiann.com/en/tags/index/"
+                href="https://blog.thejiann.space/en/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://blog.thejiann.com/ko/tags/index/"
+                href="https://blog.thejiann.space/ko/tags/index/"
                 />
   </url><url>
-    <loc>https://blog.thejiann.com/ko/ko/posts/</loc>
+    <loc>https://blog.thejiann.space/ko/ko/posts/</loc>
   </url><url>
-    <loc>https://blog.thejiann.com/ko/series/</loc>
+    <loc>https://blog.thejiann.space/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.thejiann.com/series/"
+                href="https://blog.thejiann.space/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.thejiann.com/en/series/"
+                href="https://blog.thejiann.space/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://blog.thejiann.com/ko/series/"
+                href="https://blog.thejiann.space/ko/series/"
                 />
   </url><url>
-    <loc>https://blog.thejiann.com/ko/tags/</loc>
+    <loc>https://blog.thejiann.space/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.thejiann.com/tags/"
+                href="https://blog.thejiann.space/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.thejiann.com/en/tags/"
+                href="https://blog.thejiann.space/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://blog.thejiann.com/ko/tags/"
+                href="https://blog.thejiann.space/ko/tags/"
                 />
   </url>
 </urlset>
