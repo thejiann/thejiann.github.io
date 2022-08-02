@@ -7,16 +7,16 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>TheJiann&#39;s Blog</title>
-    <link>https://blog.thejiann.space/</link>
+    <link>https://blog.thejiann.com/</link>
     <description>Recent content on TheJiann&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>yuguojian@whu.edu.cn (TheJiann)</managingEditor>
     <webMaster>yuguojian@whu.edu.cn (TheJiann)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 26 Jun 2021 13:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Aug 2022 09:45:00 +0000</lastBuildDate>
     
-        <atom:link href="https://blog.thejiann.space/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.thejiann.com/index.xml" rel="self" type="application/rss+xml" />
     
       
       
@@ -42,16 +42,40 @@
 
       
       <item>
-        <title>放假啦</title>
-        <link>https://blog.thejiann.space/2021newtosummerholiday/</link>
-        <pubDate>Sat, 26 Jun 2021 13:13:00 +0000</pubDate>
+        <title>实用工具[1] - balenaEtcher</title>
+        <link>https://blog.thejiann.com/usefultools1/</link>
+        <pubDate>Tue, 02 Aug 2022 09:45:00 +0000</pubDate>
         <author>yuguojian@whu.edu.cn (TheJiann)</author>
-        <atom:modified>Sat, 26 Jun 2021 13:13:00 +0000</atom:modified>
-        <guid>https://blog.thejiann.space/2021newtosummerholiday/</guid>
+        <atom:modified>Tue, 02 Aug 2022 09:45:00 +0000</atom:modified>
+        <guid>https://blog.thejiann.com/usefultools1/</guid>
         <description></description>
         
         <dc:creator>TheJiann</dc:creator>
-        <media:content url="https://blog.thejiann.space/https://thejiann.oss-cn-chengdu.aliyuncs.com/hugo/2021newToSummerHoliday/2.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://blog.thejiann.com/https://thejiann.oss-cn-chengdu.aliyuncs.com/hugo/usefulTools/1_balenaEtcher/balenaEtcher.svg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>实用工具</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>放假啦</title>
+        <link>https://blog.thejiann.com/2021newtosummerholiday/</link>
+        <pubDate>Sat, 26 Jun 2021 13:13:00 +0000</pubDate>
+        <author>yuguojian@whu.edu.cn (TheJiann)</author>
+        <atom:modified>Sat, 26 Jun 2021 13:13:00 +0000</atom:modified>
+        <guid>https://blog.thejiann.com/2021newtosummerholiday/</guid>
+        <description></description>
+        
+        <dc:creator>TheJiann</dc:creator>
+        <media:content url="https://blog.thejiann.com/https://thejiann.oss-cn-chengdu.aliyuncs.com/hugo/2021newToSummerHoliday/2.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -67,15 +91,15 @@
       
       <item>
         <title>电竞酒店</title>
-        <link>https://blog.thejiann.space/esportshotel/</link>
+        <link>https://blog.thejiann.com/esportshotel/</link>
         <pubDate>Fri, 28 May 2021 21:03:00 +0000</pubDate>
         <author>yuguojian@whu.edu.cn (TheJiann)</author>
         <atom:modified>Fri, 28 May 2021 21:03:00 +0000</atom:modified>
-        <guid>https://blog.thejiann.space/esportshotel/</guid>
+        <guid>https://blog.thejiann.com/esportshotel/</guid>
         <description></description>
         
         <dc:creator>TheJiann</dc:creator>
-        <media:content url="https://blog.thejiann.space/https://thejiann.oss-cn-chengdu.aliyuncs.com/hugo/eSportsHotal/1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://blog.thejiann.com/https://thejiann.oss-cn-chengdu.aliyuncs.com/hugo/eSportsHotal/1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -91,15 +115,15 @@
       
       <item>
         <title>抓娃娃</title>
-        <link>https://blog.thejiann.space/happyevening/</link>
+        <link>https://blog.thejiann.com/happyevening/</link>
         <pubDate>Tue, 04 May 2021 21:38:00 +0000</pubDate>
         <author>yuguojian@whu.edu.cn (TheJiann)</author>
         <atom:modified>Tue, 04 May 2021 21:38:00 +0000</atom:modified>
-        <guid>https://blog.thejiann.space/happyevening/</guid>
+        <guid>https://blog.thejiann.com/happyevening/</guid>
         <description></description>
         
         <dc:creator>TheJiann</dc:creator>
-        <media:content url="https://blog.thejiann.space/https://thejiann.oss-cn-chengdu.aliyuncs.com/hugo/2021.5.4/3.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://blog.thejiann.com/https://thejiann.oss-cn-chengdu.aliyuncs.com/hugo/2021.5.4/3.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -115,15 +139,15 @@
       
       <item>
         <title>在一起啦</title>
-        <link>https://blog.thejiann.space/firstmeeting/</link>
+        <link>https://blog.thejiann.com/firstmeeting/</link>
         <pubDate>Sat, 26 Dec 2020 22:00:00 +0000</pubDate>
         <author>yuguojian@whu.edu.cn (TheJiann)</author>
         <atom:modified>Sat, 26 Dec 2020 22:00:00 +0000</atom:modified>
-        <guid>https://blog.thejiann.space/firstmeeting/</guid>
+        <guid>https://blog.thejiann.com/firstmeeting/</guid>
         <description></description>
         
         <dc:creator>TheJiann</dc:creator>
-        <media:content url="https://blog.thejiann.space/https://thejiann.oss-cn-chengdu.aliyuncs.com/hugo/firstMeetingHead.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://blog.thejiann.com/https://thejiann.oss-cn-chengdu.aliyuncs.com/hugo/firstMeetingHead.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
